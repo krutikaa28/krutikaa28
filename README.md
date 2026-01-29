@@ -1,39 +1,39 @@
-# 👋 Hi, I’m Krutika Gawade — Full-Stack Developer (Fresher)
+#  Hi, I’m Krutika Gawade — Full-Stack Developer (Fresher)
 
 A motivated **Full-Stack Developer** with a strong foundation in **HTML, CSS, JavaScript, React.js, Node.js, Express, and MongoDB**.  
 I enjoy building clean, responsive user interfaces and developing scalable backend systems while continuously improving my full-stack skills through hands-on projects.
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🌱 Fresher full-stack developer actively building real-world projects  
-- 💡 Strong understanding of **HTML, CSS, JavaScript, and React.js (Frontend)**  
-- 💡 Strong understanding of **Node.js, Express, and MongoDB (Backend)**  
-- ⚛️ Hands-on experience creating complete **frontend and backend** applications  
-- 🔗 Experience integrating frontend with RESTful APIs  
-- 🔐 Basic understanding of authentication and CRUD operations  
-- 🎯 Passionate about UI development, responsive design, and clean backend logic  
-- 📚 Constantly learning and improving my full-stack development skills  
+-  Fresher full-stack developer actively building real-world projects  
+-  Strong understanding of **HTML, CSS, JavaScript, and React.js (Frontend)**  
+-  Strong understanding of **Node.js, Express, and MongoDB (Backend)**  
+-  Hands-on experience creating complete **frontend and backend** applications  
+-  Experience integrating frontend with RESTful APIs  
+-  Basic understanding of authentication and CRUD operations  
+-  Passionate about UI development, responsive design, and clean backend logic  
+-  Constantly learning and improving my full-stack development skills  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**  
-🧱 HTML5 | 🎨 CSS3 | ✨ JavaScript (ES6+) | ⚛️ React.js | 🌬️ Tailwind CSS  
+HTML5 | CSS3 | JavaScript (ES6+) | React.js | Tailwind CSS  
 
 **Backend:**  
-🟢 Node.js | 🚀 Express.js | 🍃 MongoDB  
+ Node.js | Express.js | MongoDB  
 
 **Tools & Platforms:**  
-🔧 Git & GitHub | 🧑‍💻 VS Code | 📬 Postman | 🌐 Netlify | 🔥 Firebase | ☁️ Render  
+ Git & GitHub | VS Code | Postman | Netlify | Firebase | Render  
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🔹 React Frontend Project  
+### React Frontend Project  
 **Project Name:** *Dance-Web*  
 
 **Description:**  
@@ -74,7 +74,7 @@ React.js, Node.js, Express.js, MongoDB, JavaScript
 
 --- -->
 
-### 🔹 Full-Stack To-Do App  
+### Full-Stack To-Do App  
 **Project Name:** *To-Do List Application*  
 
 **Description:**  
@@ -95,7 +95,7 @@ React.js, Node.js, Express.js, MongoDB, JavaScript
 
 ---
 
-## 📘 Currently Learning
+## Currently Learning
 
 - Advanced React concepts (props drilling, component optimization)  
 - Backend optimization and API security  
@@ -105,17 +105,17 @@ React.js, Node.js, Express.js, MongoDB, JavaScript
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 
 To secure an **internship or junior full-stack developer role** where I can contribute to real-world projects, strengthen my MERN stack skills, and grow as a full-stack developer in a collaborative team environment.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-- 💼 LinkedIn: *[https://www.linkedin.com/in/krutika-gawade-5869ba359]*  
-- 📧 Email: *[krutika.gawade.7060@gmail.com]*  
+- LinkedIn: *[https://www.linkedin.com/in/krutika-gawade-5869ba359]*  
+- Email: *[krutika.gawade.7060@gmail.com]*  
 
 ---
 
-⭐ *Thank you for visiting my profile! Feel free to explore my repositories and projects.*
+ *Thank you for visiting my profile! Feel free to explore my repositories and projects.*
