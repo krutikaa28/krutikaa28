@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Krutika Gawade — a Full-Stack Developer (Fresher)
+# 👋 Hi, I’m Krutika Gawade — Full-Stack Developer (Fresher)
 
 A motivated **Full-Stack Developer** with a strong foundation in **HTML, CSS, JavaScript, React.js, Node.js, Express, and MongoDB**.  
 I enjoy building clean, responsive user interfaces and developing scalable backend systems while continuously improving my full-stack skills through hands-on projects.
